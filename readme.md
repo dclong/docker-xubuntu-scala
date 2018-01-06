@@ -1,4 +1,4 @@
-# [dclong/xubuntu-scala](https://hub.docker.com/r/dclong/xubuntu-jdk/)
+# [dclong/xubuntu-scala](https://hub.docker.com/r/dclong/xubuntu-scala/)
 
 Xubuntu with Scala in Docker
 
